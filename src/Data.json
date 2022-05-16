@@ -1,0 +1,17 @@
+{
+    "menu":{
+        "Home" : "HOME",
+        "Landing": {
+          "Title": "LANDING",
+          "SubPagesInLanding":  ["landing1", "landing2", "landing3", "landing4", "landing5"]
+        },
+        "Pages": {
+          "Title": "PAGES",
+          "SubPagesInPages":  ["Pages1", "Pages2", "Pages3", "Pages4", "Pages5"]
+        },
+        "Docs": {
+          "Title": "DOCS",
+          "SubPagesInDocs":  ["Docs1", "Docs2", "Docs3", "Docs4", "Docs5"]
+        }
+    }
+}
