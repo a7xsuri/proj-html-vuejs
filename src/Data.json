@@ -2,23 +2,23 @@
   "menu" : [
      {
        "title" : "HOME",
-       "url" : "#"
-     },
-     {
-       "title" : "HOME",
-       "url" : "#"
+       "url" : "#",
+       "toggle": false
      },   
      {
        "title" : "HOME",
-       "url" : "#"
+       "url" : "#",
+       "toggle": true
      },   
      {
        "title" : "HOME",
-       "url" : "#"
+       "url" : "#",
+       "toggle": true
      },   
      {
        "title" : "HOME",
-       "url" : "#"
+       "url" : "#",
+       "toggle": true
      }   
   ],
   "img": [
