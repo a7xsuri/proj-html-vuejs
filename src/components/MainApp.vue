@@ -1,6 +1,5 @@
 <template>
   <div id="main">
-    <slider-main/>
     <features-main/>
     <quick-main/>
     <tools-main/>
@@ -11,7 +10,6 @@
 
 <script>
 import FeaturesMain from './FeaturesMain.vue';
-import SliderMain from './SliderMain.vue';
 import QuickMain from './QuickMain.vue';
 import ToolsMain from './ToolsMain.vue';
 import RatesMain from './RatesMain.vue';
@@ -19,8 +17,7 @@ import LandrickMain from './RatesMain.vue';
 
 
 export default {
-  components: { 
-      SliderMain,
+  components: {
       FeaturesMain,
       QuickMain,
       ToolsMain,

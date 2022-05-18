@@ -42,7 +42,6 @@ export default {
 </script>
 
 <style lang="scss">
-@import "../style/general.scss";
 @import "../style/vars.scss";
 #slider{
     background-color: $backgroundlightazure;

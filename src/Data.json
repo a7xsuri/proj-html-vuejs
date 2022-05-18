@@ -40,5 +40,53 @@
     {
       "name": "spotify"
     }
+  ],
+  "CardKey": [
+    {
+      "icon" : "#",
+      "title": "Modular",
+      "text": "Composed in a pseudo-Latin language which more or less corresponds.",
+      "link":"#"
+    },
+    {
+      "icon" : "#",
+      "title": "Responsive",
+      "text": "Composed in a pseudo-Latin language which more or less corresponds.",
+      "link":"#"
+    },
+    {
+      "icon" : "#",
+      "title": "Customizable",
+      "text": "Composed in a pseudo-Latin language which more or less corresponds.",
+      "link":"#"
+    },
+    {
+      "icon" : "#",
+      "title": "Scalable",
+      "text": "Composed in a pseudo-Latin language which more or less corresponds.",
+      "link":"#"
+    }
+  ],
+  "QuickStart":[
+    {
+      "QuickName": "npm",
+      "Active" : true,
+      "Quicktext": "<span class='green'>$</span> npm install <span class='green'>-g</span> claps.js"
+    },
+    {
+      "QuickName": "nuget",
+      "Active" : false,
+      "Quicktext": "<span class='green'>$</span> npm install <span class='green'>-g</span> claps.js"
+    },
+    {
+      "QuickName": "spm",
+      "Active" : false,
+      "Quicktext": "<span class='green'>$</span> npm install <span class='green'>-g</span> claps.js"
+    },
+    {
+      "QuickName": "github",
+      "Active" : false,
+      "Quicktext": "<span class='green'>$</span> npm install <span class='green'>-g</span> claps.js"
+    }
   ]
 }

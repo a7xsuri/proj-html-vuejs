@@ -1,7 +1,9 @@
 <template>
-  <div id="app" class="container">
+  <div id="app" class="container-fluid">
     <header-app/>
-    <main-app/>
+    <div class="container">
+      <main-app/>
+    </div>
     <footer-app/>
   </div>
 </template>
@@ -23,8 +25,13 @@ export default {
 </script>
 
 <style lang="scss">
+@import "./style/general.scss";
+@import "./style/vars.scss";
 #app {
-
   color: #2c3e50;
+
+  .container-fluid{
+    background-color: $backgroundlightazure;
+  }
 }
 </style>
