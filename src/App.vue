@@ -1,10 +1,14 @@
 <template>
-  <div id="app" class="container-fluid px-0 mx-0">
-    <header-app/>
+  <div id="app"> 
+    <div class="container-fluid px-0 mx-0">
+      <header-app/>
+    </div>
     <div class="container">
       <main-app/>
     </div>
-    <footer-app/>
+    <div class="container-fluid px-0 mx-0">
+      <footer-app/>
+    </div>
   </div>
 </template>
 
