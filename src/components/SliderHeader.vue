@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-6 padd">
                     <div class="row">
-                        <span>Development</span>
+                        <span class="oval">Development</span>
                         <h1 class="px-0">A Complete<br> Developer Toolset</h1>
                         <p class="px-0 py-2">Launch your compaign and benefit from our expertise on designing<br> and managing coversion centered bootstrap4 html page</p>
                         <button class="start">Get Started</button>
@@ -60,7 +60,7 @@ export default {
         font-weight: bold;
         line-height: 1.5;
     }
-    span{
+    .oval{
         width: auto;
         padding: 0px 20px;
         background-color: $backgroundazure;

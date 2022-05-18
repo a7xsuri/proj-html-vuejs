@@ -43,25 +43,25 @@
   ],
   "CardKey": [
     {
-      "icon" : "#",
+      "icon" : "fa-solid fa-code-branch square2",
       "title": "Modular",
       "text": "Composed in a pseudo-Latin language which more or less corresponds.",
       "link":"#"
     },
     {
-      "icon" : "#",
+      "icon" : "fa-solid fa-code-branch square2",
       "title": "Responsive",
       "text": "Composed in a pseudo-Latin language which more or less corresponds.",
       "link":"#"
     },
     {
-      "icon" : "#",
+      "icon" : "fa-solid fa-code-branch square2",
       "title": "Customizable",
       "text": "Composed in a pseudo-Latin language which more or less corresponds.",
       "link":"#"
     },
     {
-      "icon" : "#",
+      "icon" : "fa-solid fa-code-branch square2",
       "title": "Scalable",
       "text": "Composed in a pseudo-Latin language which more or less corresponds.",
       "link":"#"
@@ -71,22 +71,22 @@
     {
       "QuickName": "npm",
       "Active" : true,
-      "Quicktext": "<span class='green'>$</span> npm install <span class='green'>-g</span> claps.js"
+      "Quicktext": "$ npm install -g claps.js"
     },
     {
       "QuickName": "nuget",
       "Active" : false,
-      "Quicktext": "<span class='green'>$</span> npm install <span class='green'>-g</span> claps.js"
+      "Quicktext": "$ nuget install -g claps.js"
     },
     {
       "QuickName": "spm",
       "Active" : false,
-      "Quicktext": "<span class='green'>$</span> npm install <span class='green'>-g</span> claps.js"
+      "Quicktext": "$ spm install -g claps.js"
     },
     {
       "QuickName": "github",
       "Active" : false,
-      "Quicktext": "<span class='green'>$</span> npm install <span class='green'>-g</span> claps.js"
+      "Quicktext": "$ github install -g claps.js"
     }
   ],
   "RatesCard": [
