@@ -1,5 +1,5 @@
 <template>
-  <div id="Main">
+  <div id="main">
     <slider-main/>
     <features-main/>
     <quick-main/>
@@ -31,7 +31,6 @@ export default {
 }
 </script>
 
-    FeaturesApp
-<style>
-
+    
+<style lang="scss">
 </style>
