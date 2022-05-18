@@ -6,17 +6,17 @@
        "toggle": false
      },   
      {
-       "title" : "HOME",
+       "title" : "LANDING",
        "url" : "#",
        "toggle": true
      },   
      {
-       "title" : "HOME",
+       "title" : "PAGES",
        "url" : "#",
        "toggle": true
      },   
      {
-       "title" : "HOME",
+       "title" : "DOCS",
        "url" : "#",
        "toggle": true
      }   
@@ -108,5 +108,15 @@
       "Caratteristic": "Advanced features for pros who need more customization.",
       "Tools":["Full Access", "Enhanced Security", "Source Files", "1 Domain Free", "Enhanced Security"]
     }
-  ]
+  ],
+  "menufooter" : [
+    {
+      "title" : "Company",
+      "SubPages": ["About us", "Services", "Team", "Pricing", "Project", "Careers", "Blog", "login"]
+    },   
+    {
+      "title" : "Usefull Links",
+      "SubPages": ["Terms of Services", "Privacy policy", "Documentation", "Changelog", "Components"]
+    }
+ ]
 }

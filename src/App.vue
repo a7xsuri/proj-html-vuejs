@@ -1,12 +1,12 @@
 <template>
   <div id="app"> 
-    <div class="container-fluid px-0 mx-0">
+    <div class="container-fluid azure px-0 mx-0">
       <header-app/>
     </div>
     <div class="container">
       <main-app/>
     </div>
-    <div class="container-fluid px-0 mx-0">
+    <div class="container-fluid bluedark px-0 mx-0">
       <footer-app/>
     </div>
   </div>
@@ -33,8 +33,12 @@ export default {
 #app {
   color: #2c3e50;
 
-  .container-fluid{
+  .azure{
     background-color: $backgroundlightazure;
+  }
+
+  .bluedark{
+    background-color: $backgrounddarkblue
   }
 }
 </style>
