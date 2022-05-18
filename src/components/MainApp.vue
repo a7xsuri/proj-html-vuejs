@@ -4,7 +4,7 @@
     <quick-main/>
     <tools-main/>
     <rates-main/>
-    <landrick-main/>
+    <among-main/>
   </div>
 </template>
 
@@ -13,7 +13,7 @@ import FeaturesMain from './FeaturesMain.vue';
 import QuickMain from './QuickMain.vue';
 import ToolsMain from './ToolsMain.vue';
 import RatesMain from './RatesMain.vue';
-import LandrickMain from './RatesMain.vue';
+import AmongMain from './AmongMain.vue';
 
 
 export default {
@@ -22,7 +22,7 @@ export default {
       QuickMain,
       ToolsMain,
       RatesMain,
-      LandrickMain
+      AmongMain
       },
 
 }

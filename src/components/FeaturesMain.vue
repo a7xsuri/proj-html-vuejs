@@ -29,6 +29,9 @@ export default {
 
 <style lang="scss">
 @import "../style/vars.scss";
+#features{
+    margin-top: $mp-top;
+}
  span{
      color: $textblue;
      font-weight: bold;;

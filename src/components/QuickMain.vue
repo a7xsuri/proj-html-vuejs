@@ -27,6 +27,10 @@ export default {
 
 <style lang="scss">
 @import "../style/vars.scss";
+
+#Quick{
+  margin-top: $mp-top;
+}
 .blue{
   color: $textblue;
   font-weight: 600;

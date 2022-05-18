@@ -45,7 +45,7 @@ export default {
 @import "../style/vars.scss";
 #slider{
     background-color: $backgroundlightazure;
-    padding-top:100px;
+    padding-top:$mp-top;
     .col-lg-6{
         padding-left:20px;
     }

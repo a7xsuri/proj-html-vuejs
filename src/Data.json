@@ -88,5 +88,25 @@
       "Active" : false,
       "Quicktext": "<span class='green'>$</span> npm install <span class='green'>-g</span> claps.js"
     }
+  ],
+  "RatesCard": [
+    {
+      "plan": "Basic",
+      "cost": "$9.00",
+      "Caratteristic": "All the basics for businesses that are just getting started.",
+      "Tools":["Full Access", "Enhanced Security", "Source Files", "1 Domain Free", "Enhanced Security"]
+    },
+    {
+      "plan": "Business",
+      "cost": "$39.00",
+      "Caratteristic": "Better for growing businesses that want more customers.",
+      "Tools":["Full Access", "Enhanced Security", "Source Files", "1 Domain Free", "Enhanced Security"]
+    },
+    {
+      "plan": "Enterprise",
+      "cost": "$79.00",
+      "Caratteristic": "Advanced features for pros who need more customization.",
+      "Tools":["Full Access", "Enhanced Security", "Source Files", "1 Domain Free", "Enhanced Security"]
+    }
   ]
 }
